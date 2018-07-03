@@ -1,8 +1,8 @@
 package com.zm.processor;
 
 import com.google.auto.service.AutoService;
-import com.zhangmiao.binddimen.BindDimen;
-import com.zhangmiao.dimenfit.mode.BindDimenClass;
+import com.zm.binddimen.BindDimen;
+import com.zm.processor.mode.BindDimenClass;
 
 import java.io.BufferedReader;
 import java.io.File;

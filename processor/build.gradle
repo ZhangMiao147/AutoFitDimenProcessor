@@ -2,6 +2,7 @@ apply plugin: 'java-library'
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.google.auto.service:auto-service:1.0-rc2'
     compile 'com.github.ZhangMiao147:AutoFitDimen:0.1'
 }
 
